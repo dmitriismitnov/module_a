@@ -1,0 +1,3 @@
+[submodule "packages/module_common"]
+	path = packages/module_common
+	url = https://github.com/dmitriismitnov/module_common.git
